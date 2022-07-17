@@ -67,15 +67,15 @@
 /*secttion 2*/
 
 .section-2{
-    padding: 1rem 11rem;
-    background-color: #E5E7Eb;
+    padding: 3rem 11rem;
+    background-color: #ffffff;
     text-align: center;
 }
 .section-2 h2{
     font-size: 36px;
     color:#1f2937 ;
     align-items: center;
-    margin: 1rem;
+    margin: 2rem;
 }
 .section-2 .content{
     display: flex;
@@ -88,6 +88,23 @@
     width: 10rem;
     border: 3px solid #3882f6;
     border-radius: 1rem;
+}
+
+/*section 3*/
+
+.section-3{
+    padding: 5rem 11rem;
+    background-color: #e5e7eb;
+    text-align: center;
+}
+.section-3 p{
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937 ;
+}
+#auth{
+    font-size: 25px;
+    font-weight: bold;
 }
 
 
