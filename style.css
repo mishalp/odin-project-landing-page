@@ -7,13 +7,14 @@
     padding-left: 11rem;
     padding-right: 11rem;
     padding-top: 10px;
+    padding-bottom: 5rem;
 }
 
 .header{
     display: flex;
 }
 .header img{
-    width: 7rem;
+    width: 5rem;
   
     border-radius: 75px;
     margin-right: auto;
@@ -61,4 +62,32 @@
     margin-top: 10px;
     font-weight: bold;
 }
+
+
+/*secttion 2*/
+
+.section-2{
+    padding: 1rem 11rem;
+    background-color: #E5E7Eb;
+    text-align: center;
+}
+.section-2 h2{
+    font-size: 36px;
+    color:#1f2937 ;
+    align-items: center;
+    margin: 1rem;
+}
+.section-2 .content{
+    display: flex;
+    justify-items: stretch;
+}
+.section-2 .content div{
+    flex: 1;
+}
+.section-2 .content img{
+    width: 10rem;
+    border: 3px solid #3882f6;
+    border-radius: 1rem;
+}
+
 
