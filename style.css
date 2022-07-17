@@ -107,4 +107,44 @@
     font-weight: bold;
 }
 
+.section-4{
+    padding: 5rem 11rem;
+    background-color: #ffffff;
+    
+}
+
+.section-4 .box{
+    background-color: #3882f6;
+    padding: 2rem 6rem;
+    border-radius: 10px;
+}
+.section-4 .box .content{
+    display: flex;
+}
+.section-4 button{
+
+    margin: auto 0;
+    margin-left: auto;
+    color: #ffffff;
+    background-color:#3882f6 ;
+    width: 5rem;
+    padding: .7rem;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-weight: bol;
+    
+
+}
+.section-4 .box .content span{
+    font-size: 23px;
+    color: white;
+    font-weight: bolder;
+}
+.section-4 .box .content p{
+    font-size: 18px;
+    color: white;
+    
+}
+
+
 
