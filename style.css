@@ -14,7 +14,7 @@
 }
 .header img{
     width: 7rem;
-    height: 6rem;
+  
     border-radius: 75px;
     margin-right: auto;
     margin-top: 5px;
@@ -35,6 +35,7 @@
 .section-1 .content{
     display: flex;
     margin-top: 70px;
+    gap: 10px;
 }
 .heading{
     font-size: 48px;
@@ -44,9 +45,11 @@
 .section-1 .content p{
     font-size: 18px;
     color: #e5e7eb ;
+    font-family: serif;
+    margin-top: 1rem;
 }
 .section-1 .content img{
-    width: 35rem;
+    width: 33rem;
 }
 .section-1 .content button{
     color: #E5E7Eb;
