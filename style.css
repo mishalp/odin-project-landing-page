@@ -142,8 +142,14 @@
 }
 .section-4 .box .content p{
     font-size: 18px;
-    color: white;
+    color: #E5E7Eb;
     
+}
+footer{
+    padding: 2rem 8rem;
+    background-color: #1F2937;
+    text-align: center;
+    color: white;
 }
 
 
